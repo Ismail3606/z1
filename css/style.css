@@ -1,0 +1,201 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    border-bottom: 1px solid #eadddd;
+
+}
+.header_content{
+    width: 90%;
+    margin-left: 5%;
+    /* padding-top: 15px;
+    padding-bottom: 15px; */
+    overflow: hidden;
+}
+
+.logo{
+    width: 20%;
+    float: left;
+
+}
+.logo img{
+    width: 50%;
+
+
+}
+nav{
+    width: 30%;
+    float: right;
+    padding-top: 24px;
+
+}
+nav ul{
+    list-style: none;
+
+}
+nav ul li{
+    float: left;
+    margin-right: 24px;
+    font-size: 15px;
+    text-transform: capitalize;
+
+}
+.content{
+    width: 60%;
+    margin-left: 20%;
+    text-align: center;
+    
+
+}
+.heading h1{ 
+    text-align: center;
+    color: rgb(58, 91, 192);
+    font-size: 40px;
+    
+
+} 
+.heading p{
+    text-align: center;
+    font-size: 18px;
+    color: black;
+    margin-top: 30px;
+
+}
+.heading img{
+    width: 45%;
+    margin-top: 30px;
+    height: 300px;
+
+}
+.heading h1:first-child{
+    color: black;
+    margin-top: 40px;
+}
+.main-content{
+    overflow: hidden;
+}
+.left-content{
+    width: 46%;
+    float: left;
+   
+
+}
+.right-content{
+    width: 47%;
+    float: right;
+    text-align: left;
+    font-size: 25px;
+
+}
+.left-content h1{
+    text-align: right;
+    color: red !important;
+    font-size: 40px;
+
+}
+.left-content p{
+    text-align: right;
+    margin: 5px;
+
+}
+.right-content h1{
+    font-size: 40px;
+    text-align: left;
+
+}
+.feature{
+
+width: 90%;
+
+margin: auto;
+
+margin-top: 50px;
+
+margin-bottom: 50px;
+
+overflow: hidden;
+}
+.feature_one{
+
+width: 30%;
+
+float: left;
+
+text-align: center;
+
+background: #FDEBEF;
+}
+.feature_one h3{
+
+}
+.feature_one p{
+
+}
+.feature_one img{
+
+}
+.feature_two{
+
+width: 30%;
+
+float: left;
+
+margin-left: 5%;
+
+text-align: center;
+
+background: #ECF8F6;
+}
+.feature_two h3{
+
+}
+.feature_two p{
+
+}
+.feature_two img{
+
+}
+.feature_three{
+
+width: 30%;
+
+float: right;
+
+background: #FFF6E9;
+}
+.feature_three h3{
+
+}
+.feature_three p{
+   
+    
+}
+.feature_three img{
+    
+}
+footer{
+
+background: #;
+
+background: 008BFF;
+
+text-align: center;
+
+background  color: #;
+
+background: #008BFF;
+}
+footer p{
+
+color: #cab8b8;
+
+display: inline;
+}
+footer  h5{
+    
+color: #fff;
+    
+display: inline;
+}
+
